@@ -11,6 +11,7 @@ I'm currently a CS major at UNC-Chapel Hill, and am passionate about learning an
 
 ## I'm currently working on...
 
+- Making college housing intuitive and stress-free with [Roomadillo](https://roomadillo.com)
 - Bringing free lessons to IntelliNote, and expanding the social platform ([📂](https://github.com/thejykim/intellinote))
 
 Each project has relevant stacks listed in the project's README. Check them out!
